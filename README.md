@@ -6,6 +6,9 @@
 Research code for analyzing the effects of post-hoc pruning on calibration, robustness, and efficiency of deep neural networks.
 
  **Paper:** https://openaccess.thecvf.com/content/CVPR2024W/SAIAD/papers/Mitra_Investigating_Calibration_and_Corruption_Robustness_of_Post-hoc_Pruned_Perception_CNNs_CVPRW_2024_paper.pdf
+ 
+ <img width="842" height="595" alt="image" src="https://github.com/user-attachments/assets/f671bc25-129a-45d2-8f6c-d3be77a6d02f" />
+
 
 ---
 
