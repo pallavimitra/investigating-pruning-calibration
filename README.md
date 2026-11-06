@@ -106,7 +106,7 @@ The repository additionally evaluates
 Clone the repository
 
 ```bash
-git clone https://github.com/pallavimitra/pruning-calibration-robustness.git
+git clone https://github.com/pallavimitra/investigating-pruning-calibration.git
 ```
 
 Install dependencies
